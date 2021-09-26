@@ -1,0 +1,19 @@
+li a {
+    display: block;
+    width: 60px;
+}
+ul {
+    background-color: #dddddd;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%; /*Full height*/
+    position: fixed; /*Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+.active {
+    background-color: #04aa6d;
+}
+body {
+    background-color: aqua;
+}

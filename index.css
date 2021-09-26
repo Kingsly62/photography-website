@@ -6,7 +6,7 @@ ul {
     background-color: #dddddd;
     margin: 0;
     padding: 0;
-    width: 50%;
+    width: 100%;
     height: 100%; /*Full height*/
     position: fixed; /*Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
@@ -31,5 +31,5 @@ p {
     color: red;
 }
 h2 {
-Font-color: green;
+Font: green;
 }

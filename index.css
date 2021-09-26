@@ -15,7 +15,11 @@ ul {
     background-color: #04aa6d;
 }
 body {
-    background-color: aqua;
+    background-image: url("./Images/Img2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 h1 {
     text-align: center;

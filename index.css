@@ -27,5 +27,9 @@ h1 {
 } 
 p {
     font family: verdana;
-    font size: 5px
+    font size: 5p;
+    color: red;
+}
+h2 {
+Font-color: green;
 }

@@ -27,6 +27,7 @@ h1 {
 } 
 p {
     font family: verdana;
-    font size: 5p;
+    font size: 0px;
     color: red;
+    text-align: center;
 

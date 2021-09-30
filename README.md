@@ -29,8 +29,10 @@ Information Technology,and even computer programming(Coding)
 ## Technologies Used
 
 Probably I Have used ;
-*HTML
-*CSS
+
+\*HTML
+
+\*CSS
 
 ## Link to my Website
 

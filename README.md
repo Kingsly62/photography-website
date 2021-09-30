@@ -5,7 +5,9 @@ Clinton Makori Kioge
 #### Brief description of application
 
 Am a young man self oriented and displined
-#{Date of current version
+
+## Date of current version
+
 29/9/2021
 
 ## Description
@@ -15,9 +17,9 @@ Information Technology,and even computer programming(Coding)
 
 ## Setup/Installation Requirements
 
-1.Install Linux Ubuntu
-2.Download a vs.code
-3.Download terminal in your desktop
+*Install Linux Ubuntu
+*Download a vs.code
+\*Download terminal in your desktop
 
 ## Known Bugs
 
@@ -27,8 +29,8 @@ Information Technology,and even computer programming(Coding)
 ## Technologies Used
 
 Probably I Have used ;
-1.HTML
-2.CSS
+*HTML
+*CSS
 
 ## Link to my Website
 
@@ -36,11 +38,11 @@ https://github.com/Kingsly62/photography-website
 
 ## Support and contact details
 
-Incase of agent support ,you can call/Whatsapp
+*Incase of agent support ,you can call/Whatsapp
 via:
-Phone number 1: +254758249045
-Phone number 2: +254708657996
-Facebook:clintonkioge.
+*Phone number 1: +254758249045
+*Phone number 2: +254708657996
+*Facebook:clintonkioge.
 
 ### License
 

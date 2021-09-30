@@ -17,22 +17,25 @@ Information Technology,and even computer programming(Coding)
 
 ## Setup/Installation Requirements
 
-*Install Linux Ubuntu
-*Download a vs.code
-\*Download terminal in your desktop
+.Install Linux Ubuntu
+
+.Download a vs.code
+
+.Download terminal in your desktop
 
 ## Known Bugs
 
-*Install Linus Ubuntu in your PC.
-*Enable high quality network
+.Install Linus Ubuntu in your PC.
+
+.Enable high quality network
 
 ## Technologies Used
 
 Probably I Have used ;
 
-\*HTML
+.HTML
 
-\*CSS
+.CSS
 
 ## Link to my Website
 
@@ -40,11 +43,14 @@ https://github.com/Kingsly62/photography-website
 
 ## Support and contact details
 
-*Incase of agent support ,you can call/Whatsapp
+.Incase of agent support ,you can call/Whatsapp
 via:
-*Phone number 1: +254758249045
-*Phone number 2: +254708657996
-*Facebook:clintonkioge.
+
+.Phone number 1: +254758249045
+
+.Phone number 2: +254708657996
+
+.Facebook:clintonkioge.
 
 ### License
 

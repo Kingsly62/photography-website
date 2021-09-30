@@ -39,7 +39,7 @@ Probably I Have used ;
 
 ## Link to my Website
 
-https://github.com/Kingsly62/photography-website
+https://kingsly62.github.io/photography-website/
 
 ## Support and contact details
 

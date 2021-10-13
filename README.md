@@ -37,9 +37,7 @@ Probably I Have used ;
 
 .CSS
 
-## Link to my Website
-
-[View Live Site](https://kingsly62.github.io/photography-website/)
+## Link to my
 
 ## Support and contact details
 

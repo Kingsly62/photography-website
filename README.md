@@ -54,7 +54,7 @@ via:
 
 Licensed by MIT Company
 
-[Live Live site](/)
+[Live Live site](https://opensource.org/licenses/MIT/)
 Copyright (c) 2021
 Contributors:
 1.Moringa School Located in Nairobi Kenya

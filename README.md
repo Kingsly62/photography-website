@@ -4,7 +4,7 @@ Clinton Makori Kioge
 
 #### Brief description of application
 
-Am a young man self oriented and displined
+Am a young man self oriented and disciplined
 
 ## Date of current version
 
